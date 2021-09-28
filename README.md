@@ -2,15 +2,20 @@
 
 <p align="left"> 
   Olá me chamo Felipe Silva Machado, tenho 19 anos.<br>
-  Atualmente estudo Ciência da Computação.
+  Estudo Ciência da Computação no Centro Universitário Adventista de São Paulo.
+  Estagiário no desenvolvimento frontend em Magento 2 na WebJump.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Python, Lua, C.</strong>
+  🦄 Linguagens: <strong>HTML, CSS, Less, JavaScript, Python, Lua, C, GML (Game Maker Language).</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, Sublime Text, Vim, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, Sublime Text, Vim, Git e GitHub, Adobe Premiere, Adobe Photoshop, Adobe Photoshop Lightroom.</strong>
+</p>
+
+<p aligh="left">
+  Sistemas: Windows, Linux, IOS.
 </p>
 
 <p align="left">
