@@ -7,15 +7,19 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Less, JavaScript, Python, Lua, C, GML (Game Maker Language).</strong>
+  🦄 Linguagens: <strong>HTML, CSS, Less, JavaScript, Python, Lua, C, ReactJs, VueJs,  GML(Game Maker Language).</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, Sublime Text, Vim, Git e GitHub, Adobe Premiere, Adobe Photoshop, Adobe Photoshop Lightroom.</strong>
+  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, SublimeText, Vim, Git, GitHub, Adobe Premiere, Adobe Photoshop, Adobe Photoshop Lightroom.</strong>
 </p>
 
 <p aligh="left">
   Sistemas: Windows, Linux, IOS.
+</p>
+
+<p aligh="left">
+  Softskills: empatia, flexibilidade, dedicação, boa comunicação, facilidade de adaptação e aprendizado, sempre empolgado em aprender mais 😁♥️.
 </p>
 
 <p align="left">
