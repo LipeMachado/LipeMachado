@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Less, ReactJs, VueJs, JavaScript, Magento 2, Python, Lua, C, GML(Game Maker Language).</strong>
+  💻 Linguagens: <strong>HTML, CSS, Less, ReactJs, VueJs, JavaScript, Magento 2, Python, Lua, C, GML(Game Maker Language).</strong>
 </p>
 
 <p align="left">
@@ -15,11 +15,11 @@
 </p>
 
 <p aligh="left">
-  Sistemas: Windows, Linux, IOS.
+  💻 Sistemas: Windows, Linux, IOS.
 </p>
 
 <p aligh="left">
-  Softskills: empatia, flexibilidade, dedicação, boa comunicação, facilidade de adaptação e aprendizado, sempre empolgado em aprender mais 😁♥️.
+  😄 Softskills: empatia, flexibilidade, dedicação, boa comunicação, facilidade de adaptação e aprendizado, sempre empolgado em aprender mais 😁♥️.
 </p>
 
 <p align="left">
