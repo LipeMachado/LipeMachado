@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá me chamo Felipe Silva Machado, tenho 19 anos.<br>
   Estudo Ciência da Computação no Centro Universitário Adventista de São Paulo.
-  Estagiário no desenvolvimento frontend em Magento 2 na WebJump.
+  Desenvolvedor Frontend.
 </p>
 
 <p align="left">
