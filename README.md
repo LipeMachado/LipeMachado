@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá me chamo Felipe Silva Machado, tenho 19 anos.<br>
   Estudo Ciência da Computação no Centro Universitário Adventista de São Paulo.
-  Desenvolvedor Frontend e Desenvolvedor Blockchain
+  Desenvolvedor Frontend e Desenvolvedor Blockchain.
 </p>
 
 <p align="left">
