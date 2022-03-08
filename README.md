@@ -15,11 +15,11 @@
 </p>
 
 <p aligh="left">
-  💻 Sistemas: Windows, Linux, IOS.
+  💻 Sistemas: <strong>Windows, Linux, IOS.</strong>
 </p>
 
 <p aligh="left">
-  😄 Softskills: empatia, flexibilidade, dedicação, boa comunicação, facilidade de adaptação e aprendizado, sempre empolgado em aprender mais 😁♥️.
+  😄 Softskills: <strong>empatia, flexibilidade, dedicação, boa comunicação, facilidade de adaptação e aprendizado, sempre empolgado em aprender mais 😁♥️.</strong>
 </p>
 
 <p align="left">
