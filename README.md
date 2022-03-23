@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LipeMachado/LipeMachado/main/images/programming.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
+<img src="https://img.freepik.com/free-vector/software-development-isometric-programmer-work-big-data-processing-vector-illustration_106788-920.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
 
 <p align="left"> 
   Olá me chamo Felipe Silva Machado, tenho 19 anos.<br>
