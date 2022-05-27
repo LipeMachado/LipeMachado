@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>HTML, CSS, Less, ReactJs, VueJs, JavaScript, Magento 2, Python, Lua, C, GML(Game Maker Language).</strong>
+  💻 Linguagens: <strong>HTML, CSS, Less, ReactJs, VueJs, JavaScript, Python, Lua, C, GML(Game Maker Language).</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, SublimeText, Vim, Git, GitHub, Adobe Premiere, Adobe Photoshop, Adobe Photoshop Lightroom.</strong>
+  💼 Ferramentas: <strong>Visual studio code, Falcon C++, Pycharm, SublimeText, Magento 2, Vim, Git, GitHub, Adobe Premiere, Adobe Photoshop, Adobe Photoshop Lightroom.</strong>
 </p>
 
 <p aligh="left">
