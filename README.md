@@ -27,6 +27,8 @@
 </p>
 
 <p align="left">
+  <a href="https://lipecode.vercel.app/" target="_blank">Meu Portfólio</a>
+  
   <a href="mailto:silvalipe765@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
