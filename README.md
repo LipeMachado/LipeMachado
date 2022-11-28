@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/LipeMachado/LipeMachado/main/images/programming.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
 
 <p align="left"> 
-  Olá me chamo Felipe Silva Machado, tenho 19 anos.<br>
+  Olá me chamo Felipe Silva Machado, tenho 20 anos.<br>
   Estudo Ciência da Computação no Centro Universitário Adventista de São Paulo.
-  Desenvolvedor Frontend e Desenvolvedor Blockchain.
+  Desenvolvedor Frontend.
 </p>
 
 <p align="left">
