@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>HTML, CSS, Less, ReactJs, VueJs, JavaScript, Python, Lua, C, GML(Game Maker Language).</strong>
+  💻 Linguagens: <strong>ReactJs, VueJs, NextsJs, SvelteJs, Styled Components, Less, JavaScript, Python, Lua, C, GML(Game Maker Language).</strong>
 </p>
 
 <p align="left">
