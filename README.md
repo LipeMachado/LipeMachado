@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/LipeMachado/LipeMachado/main/images/programming.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
 
 <p align="left"> 
-  Trabalho com desenvolvimento de softwares e aplicações web, aprimorando minhas habilidades na criação de interfaces bonitas, fluidas, modernas e intuitivas. Trabalho com freelancer faz 5 anos. Minha especialidade inclui React, JavaScript (ES6), C#, NextJs, Styled-Components, HTML5 e CSS3.
+  Trabalho com desenvolvimento de softwares e aplicações web, aprimorando minhas habilidades na criação de interfaces bonitas, fluidas, modernas e intuitivas. Trabalho com freelancer faz 5 anos. Minha especialidade inclui React, JavaScript (ES6), NextJs, Styled-Components, HTML5 e CSS3.
 </p>
 
 <p align="left">
