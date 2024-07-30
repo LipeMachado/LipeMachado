@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="https://lipecode.vercel.app/" target="_blank">Meu Portfólio</a>
+  <a href="https://lipecode.com/" target="_blank">Meu Portfólio</a>
 </p>
   
 <p align="left">
