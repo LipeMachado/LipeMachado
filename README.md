@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/LipeMachado/LipeMachado/main/images/programming.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
 
 <p align="left"> 
-  Trabalho com desenvolvimento de softwares e aplicações web, aprimorando minhas habilidades na criação de interfaces bonitas, fluidas, modernas e intuitivas. Trabalho com freelancer faz 5 anos. Minha especialidade inclui React, JavaScript (ES6), NextJs, Styled-Components, HTML5 e CSS3.
+  Trabalho com desenvolvimento de softwares e aplicações web, aprimorando minhas habilidades na criação de interfaces bonitas, fluidas, modernas e intuitivas. Trabalho com freelancer faz 5 anos. Minha especialidade inclui NextJs, TailwindCSS.
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="https://lipecode.com/" target="_blank">Meu Portfólio</a>
+  <a href="https://lipecode.vercel.app/" target="_blank">Meu Portfólio</a>
 </p>
   
 <p align="left">
@@ -29,7 +29,10 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/felipe-silva-machado" alt="Linkedin" target="_blank">
+  <a href="mailto:silvalipe765@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/felipesilvamachado/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511919628439" alt="WhatsApp" target="_blank">
